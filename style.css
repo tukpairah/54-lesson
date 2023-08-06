@@ -1,0 +1,29 @@
+.body {
+  background-color: #3f3f3f;
+  font-size: 25px;
+  color: #e4e4e4;
+
+}
+
+.square {
+  position: fixed;
+  height: 80px;
+  width: 680px;
+  background-color: #e4e4e4;
+  border-radius: 10px;
+  margin-left: 50%;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  min-height: 100px;
+  margin-top: 80vh;
+}
+
+.circle {
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+  height: 100px;
+  width: 100px;
+  background-color: #c41313;
+  border-radius: 100px;
+}
